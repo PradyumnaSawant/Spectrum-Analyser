@@ -30,7 +30,6 @@ Accuracy depends on hardware setup and calibration
 Non-linear distortions due to CD-based diffraction
 Sensitive to alignment and lighting conditions
 Usage
-Wavelength calibration inaccuracy
 Run the Python script
 Select live camera or upload an image
 Adjust parameters as needed
